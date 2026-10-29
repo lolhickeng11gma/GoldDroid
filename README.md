@@ -1,0 +1,2 @@
+# GoldDroid
+Goldsource on android
